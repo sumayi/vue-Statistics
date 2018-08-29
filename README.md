@@ -1,7 +1,8 @@
-# statistics
+# vue++++v-charts做的数据可视化平台
 
 > https://sumayi.github.io/vue-Statistics/dist/index.html#/
-
+>组件化，模块化
+>相互模块独立，可自由拖动位置。
 ## Build Setup
 
 ``` bash
