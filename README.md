@@ -18,5 +18,5 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
+![image](https://github.com/sumayi/vue-Statistics/blob/master/staticV/GIF0.gif)
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
