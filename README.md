@@ -1,6 +1,6 @@
 # statistics
 
-> A Vue.js project
+> https://sumayi.github.io/vue-Statistics/dist/index.html#/
 
 ## Build Setup
 
